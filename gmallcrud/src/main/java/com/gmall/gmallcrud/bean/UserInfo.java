@@ -32,5 +32,6 @@ public class UserInfo implements Serializable {
     private String headImg;
     @Column
     private String userLevel;
+    //哈哈成功了
 
 }
